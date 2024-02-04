@@ -1,0 +1,14 @@
+# Intellij Files
+*.iml
+.idea
+
+# Maven Files
+dependency-reduced-pom.xml
+target
+
+# Operating System Files
+.DS_Store
+._*
+
+# Python Files
+__pycache__

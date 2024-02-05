@@ -28,7 +28,7 @@ representation and understanding of the input data.
 The Transformer's performance on sequential and spatial tasks can be attributed to its ability to capture dependencies
 without regard to their distance in the input or output sequences. This capacity for parallel computation not only makes
 it exceptionally efficient but also allows it to excel in tasks that require an understanding of the entire context,
-making it the backbone of modern models like GPT-3 and BERT in NLP, and Vision Transformers in computer vision.
+making it the backbone of modern models like GPT-4 and Gemini in NLP, and Vision Transformers in computer vision.
 
 ## Getting Started with the Transformer Architecture
 

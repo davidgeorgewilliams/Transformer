@@ -47,8 +47,8 @@ critical step prepares your model to receive data, setting the stage for an effi
 import tensorflow as tf
 
 # Initialize placeholders for encoder inputs and decoder labels
-encoder_inputs = tf.placeholder(tf.int32, [None, 2048], name='encoder_inputs')
-decoder_labels = tf.placeholder(tf.int32, [None, 8], name='decoder_labels')
+encoder_inputs = tf.placeholder(tf.int32, [None, 5], name='encoder_inputs')
+decoder_labels = tf.placeholder(tf.int32, [None, 6], name='decoder_labels')
 ```
 
 These placeholders, `encoder_inputs` and `decoder_labels`, are your gateways to feeding input sequences and receiving

@@ -14,6 +14,8 @@ discussed in [Lilian Weng's article](https://lilianweng.github.io/posts/2018-06-
 the advent of attention allowed models to "remember" and "focus"
 on different parts of the input sequence, creating a dynamic context that adapts to each element being processed.
 
+![Attention Mechanism Visual Representation](docs/AttentionMechanism.png)
+
 The Transformer leverages this concept through self-attention, a mechanism that correlates different positions of a
 single sequence to compute its representation, as Lilian Weng of Lil'Log articulates. This allows every element of the
 input to be processed in parallel while still capturing the nuances of their sequential or spatial relationships—akin to

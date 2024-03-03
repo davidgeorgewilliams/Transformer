@@ -3,8 +3,8 @@
 ## Introduction
 
 The Transformer architecture, a milestone in the evolution of neural networks, represents a paradigm shift in how
-sequential and spatial tasks are approached in machine learning. Introduced in the seminal paper "[Attention is All You
-Need](https://arxiv.org/abs/1706.03762)" by Vaswani et al. in 2017, Transformers have set a new standard for a variety
+sequential and spatial tasks are approached in machine learning. Introduced in the seminal paper [Attention is All You
+Need](https://arxiv.org/abs/1706.03762) by Vaswani et al. in 2017, Transformers have set a new standard for a variety
 of complex applications, from
 natural language processing to image recognition.
 

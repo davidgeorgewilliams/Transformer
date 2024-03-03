@@ -8,8 +8,8 @@ Need](https://arxiv.org/abs/1706.03762)" by Vaswani et al. in 2017, Transformers
 of complex applications, from
 natural language processing to image recognition.
 
-Historically, the journey to Transformers began with the quest to overcome the limitations of the sequence-to-sequence (
-seq2seq) models, which struggled with long-range dependencies due to their fixed-length context vectors. As insightfully
+Historically, the journey to Transformers began with the quest to overcome the limitations of the sequence-to-sequence 
+(seq2seq) models, which struggled with long-range dependencies due to their fixed-length context vectors. As insightfully
 discussed in [Lilian Weng's article](https://lilianweng.github.io/posts/2018-06-24-attention/) on attention mechanisms,
 the advent of attention allowed models to "remember" and "focus"
 on different parts of the input sequence, creating a dynamic context that adapts to each element being processed.

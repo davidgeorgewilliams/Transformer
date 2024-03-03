@@ -21,7 +21,7 @@ single sequence to compute its representation, as Lilian Weng of Lil'Log articul
 input to be processed in parallel while still capturing the nuances of their sequential or spatial relationships—akin to
 understanding the context surrounding each word in a sentence or each pixel in an image.
 
-Jay Alammar, in his [visual and conceptual exploration](https://jalammar.github.io/illustrated-transformer/) of the
+Jay Alammar, in [his visual and conceptual exploration](https://jalammar.github.io/illustrated-transformer/) of the
 Transformer, elucidates the architecture's break from
 tradition—it dispenses with recurrence entirely, favoring a fully attention-driven approach. Multi-head attention, a key
 feature of the Transformer, allows the model to focus on different parts of the input simultaneously, offering a richer
